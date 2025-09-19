@@ -26,6 +26,8 @@
 
 - [FireRedTTS2 入门指南：小白也能玩转的高保真语音合成术](./ai/FireRedTTS2%20入门指南：小白也能玩转的高保真语音合成术) - 小红书出品的流式TTS系统
 
+- [MinerU入门指南:小白也能玩转的高精度PDF解析神器](./ai/MinerU入门指南:小白也能玩转的高精度PDF解析神器.md) - 小红书出品的流式TTS系统
+
 ### 🌐 前端开发 (Frontend)
 
 收录前端开发相关的优秀开源项目，包括JavaScript框架、CSS库、构建工具、UI组件等。
@@ -69,22 +71,6 @@
 *该分类暂无文章，持续更新中...*
 
 ---
-
-## 🗂️ 项目结构
-
-```
-github-hot-projects-analysis/
-├── README.md                    # 项目主文档
-├── ai/                         # 人工智能相关项目
-│   └── FireRedTTS2 入门指南：小白也能玩转的高保真语音合成术
-├── frontend/                   # 前端开发项目
-├── backend/                    # 后端开发项目
-├── mobile/                     # 移动开发项目
-├── devtools/                   # 开发工具项目
-├── devops/                     # DevOps相关项目
-├── data-science/               # 数据科学项目
-└── security/                   # 网络安全项目
-```
 
 ## 🎯 项目特色
 
