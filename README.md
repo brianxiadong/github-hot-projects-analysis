@@ -30,7 +30,11 @@
 
 - [AiNiee入门指南：小白也能掌握的AI翻译神器](./ai/AiNiee入门指南/) - 专业的长文本翻译工具
 
-- [Tokenizers入门指南 ：最流行和高性能的分词器实现库](./ai/Tokenizers项目详解入门指南/) - HuggingFace Tokenizers 是当今最流行和高性能的分词器实现库，专注于性能优化和功能多样性。该项目是现代自然语言处理（NLP）领域的基石工具，为BERT、GPT、T5等主流预训练模型提供了强大的文本预处理能力。
+- [Tokenizers入门指南 ：最流行和高性能的分词器实现库](./ai/Tokenizers项目详解入门指南/) - HuggingFace Tokenizers 是当今最流行和高性能的分词器实现库，专注于性能优化和功能多样性。该项目是现代自然语言处理（NLP）领域的基石工具，为BERT、GPT、T5等主流预训练模型提供了强大的文本
+预处理能力。
+
+- [MoneyPrinterTurbo ： 短视频一键生成神器](./ai/MoneyPrinterTurbo项目介绍文档/)  - 快速、轻量级的短视频一键生成工具
+
 
 ### 🌐 前端开发 (Frontend)
 
