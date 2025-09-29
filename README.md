@@ -35,6 +35,11 @@
 
 - [MoneyPrinterTurbo ： 短视频一键生成神器](./ai/MoneyPrinterTurbo项目介绍文档/)  - 快速、轻量级的短视频一键生成工具
 
+### 📺 自媒体 (Media)
+
+收录自媒体运营相关的优秀开源项目，包括内容创作、多平台发布、数据分析、自动化运营工具等。
+
+- [Social-Auto-Upload完整入门指南](./media/Social-Auto-Upload完整入门指南/) - 多平台社交媒体视频自动化上传工具，支持抖音、B站、小红书等主流平台的一键多发功能
 
 ### 🌐 前端开发 (Frontend)
 
