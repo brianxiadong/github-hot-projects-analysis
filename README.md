@@ -65,6 +65,8 @@
 
 - [fuck-u-code-入门指南](./tools/fuck-u-code-入门指南/) 一款专门揭露屎山代码的质量分析工具，用犀利又搞笑的方式告诉你：**你的代码到底有多烂**
 
+- [fuck-u-code-入门指南](./tools/tchMaterial-parser入门指南/) tchMaterial-parser 是一款专为国家中小学智慧教育平台设计的电子课本下载工具，由开源社区倾力打造。它不仅集成了 URL 解析、批量下载、Access Token 认证、跨平台支持等多种实用功能，更以其卓越的架构设计和工程实践成为 Python GUI 应用开发的典型范例。
+
 ### 🚀 DevOps
 
 收录DevOps相关的开源项目，包括CI/CD工具、容器化、监控、自动化部署等。
