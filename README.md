@@ -67,7 +67,7 @@
 
 - [lazygit-入门指南](./tools/lazygit-入门指南/) Lazygit 是一个简单易用的 Git 终端用户界面（TUI），专为简化 Git 操作而设计。它基于 Go 语言开发，提供了直观的可视化界面来管理 Git 仓库，让复杂的 Git 操作变得简单高效。
 
-- [lazygit-入门指南](./tools/tchMaterial-parser入门指南/) tchMaterial-parser 是一款专为国家中小学智慧教育平台设计的电子课本下载工具，由开源社区倾力打造。它不仅集成了 URL 解析、批量下载、Access Token 认证、跨平台支持等多种实用功能，更以其卓越的架构设计和工程实践成为 Python GUI 应用开发的典型范例。
+- [tchMaterial-parser-入门指南](./tools/tchMaterial-parser入门指南/) tchMaterial-parser 是一款专为国家中小学智慧教育平台设计的电子课本下载工具，由开源社区倾力打造。它不仅集成了 URL 解析、批量下载、Access Token 认证、跨平台支持等多种实用功能，更以其卓越的架构设计和工程实践成为 Python GUI 应用开发的典型范例。
 
 ### 🚀 DevOps
 
